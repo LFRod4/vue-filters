@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-plato-dev-210647-authRole",
+      "UnauthRoleArn": "arn:aws:iam::543774592810:role/amplify-plato-dev-210647-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::543774592810:role/amplify-plato-dev-210647-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-plato-dev-210647-deployment",
+      "UnauthRoleName": "amplify-plato-dev-210647-unauthRole",
+      "StackName": "amplify-plato-dev-210647",
+      "StackId": "arn:aws:cloudformation:us-east-1:543774592810:stack/amplify-plato-dev-210647/070addf0-0f91-11ec-801e-12f0216d258f",
+      "AmplifyAppId": "d1cq4j2gtoj630"
+    }
+  }
+}

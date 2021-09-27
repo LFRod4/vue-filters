@@ -1,24 +1,15 @@
-# plato
+# Name & Tag Filter - Vue, Vuex
 
-## Project setup
-```
-npm install
-```
+## Objective
+This project is focused on highlighting core develpment skills, such as:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Readability
+- Maintainability
+- Code Performance (Efficient code and appropriate data structures)
+- Implement best programming practices
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## What it does?
+In this demo you will be able to see a list of contacts that is pulled from an API that returned nested data. 
 
-### Lints and fixes files
-```
-npm run lint
-```
+As a user you will be able to add tags to each contact and have the ability to filter through either name, tag, or BOTH.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
